@@ -7,7 +7,7 @@ This repository contains notes that go alongside the course [18.01 Linear Algebr
 
 
 ## Errors
-
+Please feel free to raise an issue here or make a pull request if you find errors and typos.
 
 ## To-do
 
