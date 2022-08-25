@@ -4,6 +4,19 @@ This repository contains notes that go alongside the course [18.01 Linear Algebr
 
 
 ## Usage
+The notes were written in Jupyter Notebook
+
+Install the classic Jupyter Notebook with:
+
+
+```python
+pip install notebook
+```
+
+Run Jupyter
+```python
+jupyter notebook
+```
 
 
 ## Errors
