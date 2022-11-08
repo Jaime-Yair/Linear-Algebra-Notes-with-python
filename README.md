@@ -1,6 +1,6 @@
 # Introduction-to-Linear-Algebra
 
-This repository contains notes that go alongside the course [18.01 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) by Gilbert Strang, and the book [Introduction to Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+This repository contains notes that go alongside the course [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) by Gilbert Strang, and the book [Introduction to Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 
 ## Usage
